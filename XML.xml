@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<soap:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tns="urn:AppStore">
+    <soap:Body>
+        <tns:GetAppsResponse>
+            <AppVersionView>
+                <UUID>
+                    <![CDATA[f2ce0709-9708-4872-8b6f-fae7c4c03675]]>
+                </UUID>
+                <DisplayName>
+                    <![CDATA[Print Layout - Repeatable Header/Footer]]>
+                </DisplayName>
+                <Description>
+                    <![CDATA[Lets you define a repeatable header and footer when printing a website.
+The header/footer will repeat for as many pages as the body.]]>
+                </Description>
+                <NrOfReviews>0</NrOfReviews>
+                <NrOfDownloads>11</NrOfDownloads>
+                <AvgRating>0</AvgRating>
+                <isStaffPick>false</isStaffPick>
+                <LogoUrl>
+                    <![CDATA[https://appstore.home.mendix.com/logo/image?id=219013&changeddate=1589366110434]]>
+                </LogoUrl>
+                <Pricing>
+                    <![CDATA[Free]]>
+                </Pricing>
+                <PrivateApp>false</PrivateApp>
+                <AppTypeView>
+                    <![CDATA[Widget]]>
+                </AppTypeView>
+                <DocumentationURL>
+                    <![CDATA[https://appstore.home.mendix.com/document/9007199254788669]]>
+                </DocumentationURL>
+                <AppView_Version>
+                    <Version>
+                        <PublishedByType>
+                            <![CDATA[Organisation]]>
+                        </PublishedByType>
+                        <FileName>
+                            <![CDATA[PrintLayoutWidget.mpk]]>
+                        </FileName>
+                    </Version>
+                </AppView_Version>
+                <AppView_Publisher>
+                    <Publisher>
+                        <Number>60</Number>
+                        <PublicName>
+                            <![CDATA[Mansystems]]>
+                        </PublicName>
+                    </Publisher>
+                </AppView_Publisher>
+                <AppView_Subcategory>
+                    <Subcategory>
+                        <Number>1</Number>
+                        <Name>
+                            <![CDATA[All]]>
+                        </Name>
+                        <FullName>
+                            <![CDATA[Widgets - All]]>
+                        </FullName>
+                    </Subcategory>
+                    <Subcategory>
+                        <Number>8</Number>
+                        <Name>
+                            <![CDATA[Display]]>
+                        </Name>
+                        <FullName>
+                            <![CDATA[Widgets - Display]]>
+                        </FullName>
+                    </Subcategory>
+                    <Subcategory>
+                        <Number>24</Number>
+                        <Name>
+                            <![CDATA[Widgets]]>
+                        </Name>
+                        <FullName>
+                            <![CDATA[Add-Ons - Widgets]]>
+                        </FullName>
+                    </Subcategory>
+                </AppView_Subcategory>
+            </AppVersionView>
+        </tns:GetAppsResponse>
+    </soap:Body>
+</soap:Envelope>
